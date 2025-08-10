@@ -1,4 +1,4 @@
-const message = `I don’t even know if you’ll ever read this.\nBut if you do… I just want you to know, I still think about you sometimes.\n\nWe both tried. We both cared. But the universe just never gave us enough space to become “us.”\n\nI just wonder… if we had met at a different point in life, would the ending have been different?\n\nAnyway, I hope you're doing okay, even though we’re not in each other’s lives anymore.`;
+const message = `akuu harapp kamuu bacaa iniii. \nAku pengen bilangg makasih udahh nemenin akuu\n\nDimulai dari sering ngobrol bareng, sedih bahagianya akuu sampai hal hak kecil yang tanpa kamu sadari\n\nI akuuu harapp kitaa bisaa lebihh darii kata "temen"n\nkitaa bisaa berjuang bareng,senang senang bareng,main barengg, sama keliling bandung barengnn\nsemogaa kamuu senang dengan catatan mungil inii yang aku buatt sendirii HAHAHAAH`;
 
 function showLetter() {
   document.getElementById("introText").style.opacity = 0;
@@ -21,3 +21,4 @@ function showLetter() {
     typeWriter();
   }, 600);
 }
+
